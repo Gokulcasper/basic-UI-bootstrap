@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+    color: black;
+}
+.p10{
+    padding: 10px;
+}
+.grid-layout{
+    background-color: rgb(194, 245, 228);
+    
+}
+ol{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+li{
+    align-items: center;
+}
+
+.bg{
+    border: 1px solid green;
+}
+.h10{
+    min-height: 800px;
+    /* align-items: center; */
+}
+/* .bdr{
+    border: 1px solid red;
+} */
+
+.grid-fix{
+    position: fixed;
+    bottom: 0;
+}
